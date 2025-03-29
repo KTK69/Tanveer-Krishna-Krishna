@@ -80,6 +80,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KTK69&show_icons=true&theme=radical" alt="Tanveer's GitHub Stats">
-</p>
+
