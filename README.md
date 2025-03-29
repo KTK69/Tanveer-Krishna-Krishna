@@ -4,10 +4,46 @@
 - 🌟 I’m currently working on **AI-Powered Facial Aging Simulation App**
 - 👨‍💻 I have experience in **Machine Learning, Deep Learning, Image Processing, and Web Development**
 - 🔬 My key skills include **Python, TensorFlow, PyTorch, OpenCV, Flask, Streamlit, JavaScript, Tailwind CSS, MongoDB, and MySQL**
-- 📚 Recent project: **Zomato Rating Prediction Model**
-- 🏆 Secured **₹1,00,000 seed funding** for **GuruKuleD (Teacher-Centric Platform)**
 - 🌐 How to reach me: **tanveerkrishna@gmail.com**
 - ✨ Fun fact: **I love AI, gaming, and strategic thinking!**
+
+<h3 align="left">Projects:</h3>
+- **AI-Powered Facial Aging Simulation App** (Ongoing)
+  - Developing a CycleGAN-based AI model trained on 86k facial images (FFHQ, AgeDb, CelebA).
+  - Engineering 12 adjustable aging parameters using OpenCV and Dlib’s facial landmark detection.
+  - Deploying an interactive Streamlit web app for real-time aging previews.
+  - **Tech Stack:** Python, PyTorch, TensorFlow, OpenCV, Dlib, Streamlit.
+
+- **Plant Disease Detection using Leaf Images** (Feb 2025)
+  - Developed a CNN-based deep learning model achieving 90% accuracy on 6,000+ leaf images.
+  - Engineered 38 domain-specific features, including leaf texture and color histograms.
+  - Deployed an interactive Flask dashboard with real-time image classification.
+  - **Tech Stack:** Python, TensorFlow/Keras, Scikit-learn, OpenCV, Flask, Streamlit.
+
+- **Zomato Rating Prediction** (Dec 2024)
+  - Trained an ML model with 85% accuracy, analyzing 500,000+ customer reviews and geolocation data.
+  - Engineered 15+ features, such as sentiment scores and location density, improving model accuracy.
+  - Developed an interactive Flask & Streamlit dashboard for real-time visualization.
+  - **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Flask.
+
+<h3 align="left">Certifications:</h3>
+- Python, Data Science & Machine Learning (Cipher Schools, Jul 2024)
+- ChatGPT Advanced Data Analysis (Vanderbilt University, May 2024)
+- Build AI Apps with ChatGPT, DALL-E, and GPT-4 (Scrimba, May 2024)
+- Generative AI with Large Language Models (DeepLearning.AI, AWS, Apr 2024)
+- Introduction to Large Language Models (Google Cloud, Feb 2024)
+- Generative AI for Everyone (DeepLearning.AI, Feb 2024)
+
+<h3 align="left">Achievements:</h3>
+- **Runner-Up | Valorant Intra-University Tournament** (Oct 2024)
+  - Led a 5-player team as In-Game Leader (IGL), executing real-time tactical decisions.
+  - Secured 2nd place among 20+ university teams.
+
+- **Secured ₹1,00,000 Seed Funding | GuruKuleD (Teacher-Centric Platform)** (Jan 2024)
+  - Led a 4-member team to develop a working prototype and scalable business model.
+  - Secured funding in a competitive startup event for digital education innovation.
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
