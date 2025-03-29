@@ -1,9 +1,7 @@
 <h1 align="center">🚀 Hi, I'm Tanveer Krishna Kristam 👋</h1>
 <h3 align="center">AI Enthusiast | Machine Learning Practitioner | Full-Stack Developer</h3>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KTK69&theme=github_dark" alt="Tanveer's GitHub Stats">
-</p>
+
 
 <h3>🌟 About Me:</h3>
 <ul>
