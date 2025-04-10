@@ -1,5 +1,4 @@
-<!-- Lottie Player CDN -->
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
 
 <h1 align="center">🚀 Hi, I'm Tanveer Krishna Kristam 👋</h1>
 <h3 align="center">AI Enthusiast | Machine Learning Practitioner | Full-Stack Developer</h3>
