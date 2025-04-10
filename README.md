@@ -1,83 +1,106 @@
+<!-- Lottie Player CDN -->
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
 <h1 align="center">🚀 Hi, I'm Tanveer Krishna Kristam 👋</h1>
 <h3 align="center">AI Enthusiast | Machine Learning Practitioner | Full-Stack Developer</h3>
 
-
+<!-- Animated AI Developer Visual -->
+<div align="center">
+  <lottie-player src="https://assets3.lottiefiles.com/packages/lf20_qp1q7mct.json" background="transparent" speed="1" style="width: 250px; height: 250px;" loop autoplay></lottie-player>
+</div>
 
 <h3>🌟 About Me:</h3>
 <ul>
-  <li>🚀 Passionate about AI, Deep Learning, and Web Development.</li>
-  <li>🧠 Currently working on <b>AI-Powered Facial Aging Simulation App</b>.</li>
-  <li>👨‍💻 Experienced in <b>Machine Learning, Image Processing, and Full-Stack Development</b>.</li>
-  <li>🔧 Tech Stack: <b>Python, TensorFlow, PyTorch, OpenCV, Flask, Streamlit, JavaScript, Tailwind CSS, MongoDB, and MySQL</b>.</li>
+  <li>🚀 Passionate about AI, Deep Learning, and Full-Stack Web Development with a problem-solving mindset.</li>
+  <li>🧠 Currently building an <b>AI-Powered Facial Aging Simulation App</b> using GANs and facial landmark detection.</li>
+  <li>👨‍💻 Hands-on experience in <b>Machine Learning, Computer Vision, Feature Engineering, and Interactive Dashboards</b>.</li>
+  <li>🎯 Skilled in transforming research into production-ready apps with real-time user interaction using <b>Streamlit and Flask</b>.</li>
+  <li>🔧 Tech Stack: <b>Python, TensorFlow, PyTorch, OpenCV, Dlib, Flask, Streamlit, JavaScript, Tailwind CSS, MongoDB, MySQL, and Scikit-learn</b>.</li>
+  <li>🎓 Pursuing B.Tech in Computer Science at Lovely Professional University (CGPA: 7.8).</li>
   <li>📬 Reach me at: <b>tanveerkrishna@gmail.com</b>.</li>
 </ul>
 
 ---
 
 <h3>📌 Featured Projects:</h3>
+
+<!-- Project Animation -->
+<lottie-player src="https://assets2.lottiefiles.com/packages/lf20_dgxictn3.json" background="transparent" speed="1" style="width: 180px; height: 180px;" loop autoplay></lottie-player>
+
 <ul>
   <li><b>🎭 AI-Powered Facial Aging Simulation App</b></li>
   <ul>
-    <li>CycleGAN-based AI model trained on 86k facial images.</li>
-    <li>Integrated OpenCV and Dlib’s facial landmark detection.</li>
-    <li>Streamlit web app for real-time aging previews.</li>
+    <li>CycleGAN-based model trained on 86k+ images (FFHQ, AgeDB, CelebA).</li>
+    <li>Custom aging parameters: wrinkles, graying, sagging via OpenCV & Dlib.</li>
+    <li>Streamlit app with real-time sliders and dual-stage AI pipeline for facial aging preview.</li>
   </ul>
-  
+
   <li><b>🌿 Plant Disease Detection using Leaf Images</b></li>
   <ul>
-    <li>Deep learning CNN model with 90% accuracy on 6,000+ images.</li>
-    <li>Developed real-time classification dashboard using Flask.</li>
+    <li>CNN model trained on 6,000+ leaf samples with 90% classification accuracy.</li>
+    <li>38 engineered features including leaf texture, edge patterns, and color histograms.</li>
+    <li>Deployed using Flask and Streamlit with real-time image-based detection.</li>
   </ul>
 
   <li><b>🍽️ Zomato Rating Prediction</b></li>
   <ul>
-    <li>Analyzed 500,000+ reviews & geolocation data.</li>
-    <li>Built an ML model with 85% accuracy.</li>
+    <li>Analyzed 500k+ reviews and location data to predict ratings with 85% accuracy.</li>
+    <li>Feature engineering: sentiment scoring, density mapping, cuisine popularity.</li>
+    <li>Built an interactive dashboard using Flask and Streamlit.</li>
   </ul>
 </ul>
 
 ---
 
 <h3>📜 Certifications:</h3>
+
+<!-- Certificate Animation -->
+<lottie-player src="https://assets4.lottiefiles.com/packages/lf20_jtbfg2nb.json" background="transparent" speed="1" style="width: 120px; height: 120px;" loop autoplay></lottie-player>
+
 <ul>
   <li>✔️ Python, Data Science & Machine Learning (Cipher Schools)</li>
+  <li>✔️ ChatGPT Advanced Data Analysis (Vanderbilt University)</li>
   <li>✔️ Generative AI with Large Language Models (DeepLearning.AI, AWS)</li>
   <li>✔️ Build AI Apps with ChatGPT, DALL-E, and GPT-4 (Scrimba)</li>
+  <li>✔️ Introduction to LLMs (Google Cloud)</li>
+  <li>✔️ Generative AI for Everyone (DeepLearning.AI)</li>
 </ul>
 
 ---
 
 <h3>🏆 Achievements:</h3>
+
+<lottie-player src="https://assets10.lottiefiles.com/private_files/lf30_g5zvmubp.json" background="transparent" speed="1" style="width: 120px; height: 120px;" loop autoplay></lottie-player>
+
 <ul>
-  <li>🥇 Runner-Up in Valorant Intra-University Tournament (Oct 2024)</li>
-  <li>💰 Secured ₹1,00,000 Seed Funding for GuruKuleD Startup (Jan 2024)</li>
+  <li>🥇 Runner-Up in Valorant Intra-University Tournament as In-Game Leader (Oct 2024)</li>
+  <li>💰 Won ₹1,00,000 Seed Funding for “GuruKuleD” EdTech Startup (Jan 2024)</li>
 </ul>
-
----
-
 
 ---
 
 <h3>🌐 Connect with Me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/tanveer-krishna-kristam/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/KTK69" target="blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/tanveer-krishna-kristam/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/KTK69" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
-<h3>💻 Languages and Tools:</h3>
+<h3>🛠️ Languages and Tools:</h3>
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
 ---
-
-
